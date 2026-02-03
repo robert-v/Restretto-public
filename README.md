@@ -1,6 +1,6 @@
 <img width="1324" height="891" alt="Restretto" src="https://github.com/user-attachments/assets/8c2159a3-7fe9-45d1-8412-81c7b1ebe71d" />
 
-# Restretto - minimal REST API client for macOS
+# Restretto - minimal free REST API client for macOS
 
 ## Features
 - Native & Free
