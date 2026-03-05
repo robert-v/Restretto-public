@@ -13,3 +13,8 @@
 1. Download dmg archive from https://restretto.app
 2. Mount the dmg and move .app file to /Applications
 3. Run the app
+
+## My other tools
+[ProcessSpy - Advanced process monitor for Mac](https://process-spy.app)
+
+[Essence - free focused log viewer for Mac](https://github.com/robert-v/Essence-public)
