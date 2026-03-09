@@ -18,3 +18,5 @@
 [ProcessSpy - Advanced process monitor for Mac](https://process-spy.app)
 
 [Essence - free focused log viewer for Mac](https://github.com/robert-v/Essence-public)
+
+[Mutate - inline text transformation for Mac](https://github.com/robert-v/Mutate-public)
