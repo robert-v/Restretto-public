@@ -13,7 +13,6 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - macOS version:
  - Restretto version:
- - Mac system config (processor, RAM)
-
+ 
 **Additional context**
 Add any other context about the problem here.
